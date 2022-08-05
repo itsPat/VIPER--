@@ -17,4 +17,3 @@ Xcode File Template for generating VIPER modules (without protocols).
 1. Open Xcode
 2. ```File -> New -> File``` or ```⌘ N```
 3. Scroll down till you see ```VIPER Module``` template and choose it.
-4. Set a name for your module. Examples: ```Home, Auth, SignIn```
